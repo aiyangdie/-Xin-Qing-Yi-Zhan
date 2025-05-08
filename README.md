@@ -215,7 +215,6 @@ npm run build
 
 ## 项目预览
 
-![项目预览](preview.png)
 
 ## 贡献指南
 
