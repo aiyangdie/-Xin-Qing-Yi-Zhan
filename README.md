@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/38-Xin-Qing-Yi-Zhan.jpg" alt="-Xin-Qing-Yi-Zhan 项目封面" width="100%"></p>
+
 # 💚 心情驿站 — Xin Qing Yi Zhan
 
 > 让心情变好的小站 — 温暖治愈的心理健康追踪 Web 应用
